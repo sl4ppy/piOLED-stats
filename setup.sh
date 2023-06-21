@@ -1,6 +1,8 @@
+sudo apt install ttf-mscorefonts-installer -y
+
 pip3 install adafruit-circuitpython-ssd1306
-sudo apt-get install python3-pip
-sudo apt-get install python3-pil
+sudo apt-get install python3-pip -y
+sudo apt-get install python3-pil -y
 
 sudo pip3 install --upgrade setuptools
 
